@@ -5,7 +5,7 @@
 The Gallery Project is a web application that showcases a collection of images and allows users to view them in a visually appealing gallery format. This project demonstrates how to create a responsive image gallery using HTML, CSS .
 
 
-![Gallary Project ](./assets/image_1.png?raw=true " Gallary Project ")
+![Gallary Project ](./assets/image_2.png?raw=true " Gallary Project ")
 
 ## Features
 
@@ -17,7 +17,7 @@ The Gallery Project is a web application that showcases a collection of images a
 
 ## Screenshots
 
-![Gallary Project ](./assets/image_2.png?raw=true " Gallary Project ")
+![Gallary Project ](./assets/image_1.png?raw=true " Gallary Project ")
 
 ## Technologies Used
 
